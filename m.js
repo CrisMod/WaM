@@ -1,6 +1,6 @@
 {
-	"version": "2.21.6.17",
-	"download": "http://apticirl.com/8E8U",
+	"version": "2.21.6.17.1",
+	"download": "http://pheecith.com/58YC",
 	"update": [
 		{
 			"languaje": "es",
