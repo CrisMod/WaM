@@ -1,5 +1,5 @@
 {
-	"version": "2.21.6.17.2",
+	"version": "2.21.6.17",
 	"download": "http://apticirl.com/8E8U",
 	"update": [
 		{
