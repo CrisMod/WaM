@@ -1,6 +1,6 @@
 {
-	"version": "2.21.6.17.1",
-	"download": "http://pheecith.com/58YC",
+	"version": "2.21.6.17.2",
+	"download": "http://pheecith.com/78tX",
 	"update": [
 		{
 			"languaje": "es",
