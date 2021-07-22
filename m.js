@@ -1,6 +1,6 @@
 {
-	"version": "2.21.6.17.2",
-	"download": "http://pheecith.com/78tX",
+	"version": "2.21.14.18",
+	"download": "http://fumacrom.com/1PIfC",
 	"update": [
 		{
 			"languaje": "es",
