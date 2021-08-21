@@ -1,6 +1,6 @@
 {
-	"version": "2.21.14.18",
-	"download": "http://fumacrom.com/1PIfC",
+	"version": "2.21.14.18.1",
+	"download": "http://fumacrom.com/1pJ1k",
 	"update": [
 		{
 			"languaje": "es",
